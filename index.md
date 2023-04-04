@@ -1,4 +1,4 @@
 ---
-title: Hey
+title: hey
 Omg
 
